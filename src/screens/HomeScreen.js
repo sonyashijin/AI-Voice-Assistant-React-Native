@@ -154,7 +154,7 @@ const App = () => {
         {/* bot icon */}
         <View className="flex-row justify-center">
           <Image  
-              source={require('../../assets/images/bot.png')}
+              source={require('../../assets/images/ella.png')}
               style={{height: hp(15), width: hp(15)}}
           />
         </View>
